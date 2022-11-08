@@ -62,6 +62,9 @@
         "name": "world",
         "type": "world"
       }
+    ],
+    "warnings": [
+      "1165_only"
     ]
   }
 }
