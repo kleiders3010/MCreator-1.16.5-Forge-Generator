@@ -1,0 +1,31 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "texturetochange",
+      "check": "String"
+    }
+  ],
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": "#5d4094",
+  "mcreator": {
+    "toolbox_id": "advanced",
+    "toolbox_init": [
+      "<value name=\"texturetochange\"><block type=\"text\"><field name=\"TEXT\">minecraft:textures/gui/icons.png</field></block></value>"
+    ],
+    "inputs": [
+      "texturetochange"
+    ],
+    "dependencies": [
+	      {
+        "name": "world",
+        "type": "world"
+      }
+    ],
+	"warnings": [
+      "client_side_procedure",
+	  "1165_only"
+    ]
+  }
+}
