@@ -2,3 +2,4 @@
 exports
 cmd
 cmd.exe
+.export
