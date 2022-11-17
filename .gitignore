@@ -3,3 +3,4 @@ exports
 cmd
 cmd.exe
 .export
+/export
