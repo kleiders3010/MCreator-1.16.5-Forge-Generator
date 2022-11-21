@@ -1,9 +1,0 @@
-_default:
-  - NoOpFeature
-  - NoFeatureConfig
-feature_lake:
-  - LakesFeature
-  - LakesFeature.BlockStateFeatureConfig
-feature_simple_block:
-  - SimpleBlockPlacer
-  - SimpleBlockStateProvider
